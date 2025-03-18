@@ -5,7 +5,7 @@
 
 
 Descrição do projeto:
-Esse projeto foi desenvolvido como pré-requisito obrigatório da "Formação iniciante em programção" da Oracle Next Education. 
+Esse projeto foi desenvolvido como pré-requisito obrigatório da "Formação iniciante em programação" da Oracle Next Education. 
 A idéia era desenvolver a parte de javascript de uma aplicação de sorteio de amigo secreto. 
 
 Status do projeto:
